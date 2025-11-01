@@ -1,0 +1,7 @@
+Class 7 - 9/23/2025
+
+topic = command line, file management, and GitHub
+
+goals for today= upload sample files from your computer to a GitHub repo, using Git Bash (windows)
+
+Notes:
